@@ -1,0 +1,76 @@
+{
+  "2025-05-02": {
+    "Aries": {
+      "fortune": "A powerful burst of energy helps you tackle a challenging task head-on. Collaboration is key today; working with others brings the best results.",
+      "luckyColorName": "Red",
+      "luckyColorValue": "Red",
+      "luckyNumbers": [7, 19, 23, 31, 40, 52]
+    },
+    "Taurus": {
+      "fortune": "Focus on financial planning and security. A moment of quiet reflection brings clarity, helping you avoid impulsive decisions.",
+      "luckyColorName": "Emerald Green",
+      "luckyColorValue": "#2ECC71",
+      "luckyNumbers": [4, 11, 35, 16, 28, 49]
+    },
+    "Gemini": {
+      "fortune": "Communication flows easily and effectively today. Share your innovative ideas; you'll find receptive ears and potentially learn something new.",
+      "luckyColorName": "Yellow",
+      "luckyColorValue": "Yellow",
+      "luckyNumbers": [5, 14, 50, 21, 37, 46]
+    },
+    "Cancer": {
+      "fortune": "Pay close attention to your intuition, especially regarding home and family matters. Nurture yourself and create a comforting environment.",
+      "luckyColorName": "Silver",
+      "luckyColorValue": "Silver",
+      "luckyNumbers": [2, 20, 41, 8, 34, 51]
+    },
+    "Leo": {
+      "fortune": "Your natural creativity shines brightly! Express yourself authentically and don't be afraid to take the spotlight – your talents deserve recognition.",
+      "luckyColorName": "Gold",
+      "luckyColorValue": "Gold",
+      "luckyNumbers": [1, 9, 28, 17, 36, 44]
+    },
+    "Virgo": {
+      "fortune": "A practical, methodical approach helps solve a lingering problem. Focus on the details and find satisfaction in organization and efficiency.",
+      "luckyColorName": "Navy Blue",
+      "luckyColorValue": "Navy",
+      "luckyNumbers": [6, 15, 33, 24, 42, 58]
+    },
+    "Libra": {
+      "fortune": "Seek balance and harmony in your relationships. Diplomacy and a willingness to see other perspectives help navigate a tricky situation gracefully.",
+      "luckyColorName": "Pastel Pink",
+      "luckyColorValue": "LightPink",
+      "luckyNumbers": [8, 17, 45, 26, 38, 53]
+    },
+    "Scorpio": {
+      "fortune": "Your intensity and focus are high today. Channel this powerful energy into productive activities or deep research, avoiding unnecessary conflicts.",
+      "luckyColorName": "Maroon",
+      "luckyColorValue": "Maroon",
+      "luckyNumbers": [13, 22, 39, 4, 29, 47]
+    },
+    "Sagittarius": {
+      "fortune": "The call to adventure is strong! Even a small change in routine or exploring a new idea can feel liberating and broaden your horizons.",
+      "luckyColorName": "Purple",
+      "luckyColorValue": "Purple",
+      "luckyNumbers": [3, 12, 30, 25, 43, 57]
+    },
+    "Capricorn": {
+      "fortune": "Keep your focus firmly on your long-term goals. Discipline and patient effort yield significant rewards and build a solid foundation.",
+      "luckyColorName": "Dark Brown",
+      "luckyColorValue": "#8B4513",
+      "luckyNumbers": [10, 25, 48, 15, 31, 59]
+    },
+    "Aquarius": {
+      "fortune": "Connect with friends, groups, or your community. Unexpected insights and inspiration often come from social interactions and brainstorming.",
+      "luckyColorName": "Electric Blue",
+      "luckyColorValue": "#7DF9FF",
+      "luckyNumbers": [16, 29, 55, 7, 32, 48]
+    },
+    "Pisces": {
+      "fortune": "Listen closely to your dreams, intuition, and imagination today. Pursuing a spiritual or artistic interest brings deep joy and fulfillment.",
+      "luckyColorName": "Sea Green",
+      "luckyColorValue": "SeaGreen",
+      "luckyNumbers": [18, 27, 44, 9, 35, 54]
+    }
+  }
+}
